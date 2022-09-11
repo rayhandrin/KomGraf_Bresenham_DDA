@@ -10,6 +10,8 @@ REFERENSI
 - https://www.geeksforgeeks.org/bresenhams-line-generation-algorithm/
 - https://medium.com/geekculture/dda-line-drawing-algorithm-be9f069921cf
 - https://medium.com/geekculture/bresenhams-line-drawing-algorithm-2e0e953901b3
+- https://ocw.unican.es/pluginfile.php/1949/course/section/2243/03-LineAlgorithms.pdf
+- https://old.amu.ac.in/emp/studym/99996016.pdf
 - Tugas Komputer Grafik (Praktikum)
 """
 
